@@ -1,4 +1,4 @@
-package com.tayli.springbootmall.demo;
+package com.tayli.springbootmall;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
